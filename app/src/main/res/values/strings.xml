@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+
+    <string name="app_heading">My Nanodegree Apps!</string>
+    <string-array name="apps">
+        <item>SPOTIFY STREAMER</item>
+        <item>SUPER DUO</item>
+        <item>BUILD IT BIGGER</item>
+        <item>XYZ READER</item>
+        <item>CAPSTONE: MY OWN APP </item>
+        <item>ANOTHER : MY OWN</item>
+        <!--
+        <item>YET ANOTHER: MINE</item>
+        <item>STILL MORE: MINE</item>
+        -->
+    </string-array>
+    <string name="action_settings">Settings</string>
+</resources>
